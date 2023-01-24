@@ -1,1 +1,1 @@
-# parallel_computing
+# MPI
